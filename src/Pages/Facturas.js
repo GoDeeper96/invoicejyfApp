@@ -8,6 +8,7 @@ const Facturas = () => {
   const [correo, setCorreo] = useState("")
   const [nombreReferencia, setNombreReferencia] = useState("")
   const [gaga, setGaga] = useState("");
+  const [test, setTest] = useState("");
   return (
     <div className={styles.contenedor}><form className={styles.formulario}>  
     <div className={styles.campo}>
