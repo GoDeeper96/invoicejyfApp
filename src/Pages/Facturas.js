@@ -16,7 +16,7 @@ const Facturas = () => {
         <input 
             className={styles.campo__field}
             type="text" 
-            placeholder="Por ejemplo: José Sanchez Yagui" 
+            placeholder="Por ejemplo: José PEPE Yagui" 
             id="nombre"
         />
     </div>
